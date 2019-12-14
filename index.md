@@ -1,37 +1,78 @@
-## Welcome to GitHub Pages
+### Kevin P Landreneau 
+#### Network Administration & Residential Repair based in Anacoco, Louisiana.
+###### 337-526-4896 | keviland@icloud.com
+ 
+ 
 
-You can use the [editor on GitHub](https://github.com/enfoTek/enfotek.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+##### enfoTek<br>_Network Administration_
+ July 2007—Current 
+- Solution Planning and Implementation of
+- Residential & Commercial Computer Wired/Wireless
+- Networks, Hardware, and Workstations  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+##### Wow Technologies, Lafayette, LA<br>_Network Administration_
+January 2008 – August 2008
+ - Service Level Agreement Maintenance of
+ Commercial Computer Systems and Networks
+ Lafayette, Louisiana and Surrounding Areas
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+##### Information Systems Solutions, Ville Platte, LA<br>_Network Administration/Repair_
+July 2006 – July 2007
+ - Consulted and Configured
+     - Wired and Wireless Networks
+     - Security
+     - Personal and Business
+ - Laptops and Desktops
+     - Windows and Linux Operating Systems
+ - In-House and On-site
 
-# Header 1
-## Header 2
-### Header 3
+##### James Manuel of Manuel Electronics, Mamou, LA<br>_IT Admin/Helpdesk_
+August 2005 – August 2006
+ - Web design, system support, LAN/WiLAN,
+ - OS installation
+ - Medical Office Management System installation; 
+ - General Computer Repair
+ - Helpdesk
 
-- Bulleted
-- List
+##### Allen Parish School Board, IT Dept., Oberlin, LA<br>_IT Admin/Helpdesk_
+Temp/Contract
+June 2004 – August 2004
+ - Installation and maintenance of LAN, WAN, WiLAN/WAN,
+ - General OS and hardware troubleshooting and repair
 
-1. Numbered
-2. List
+##### Physical Therapy Services of Church Point<br>_IT Admin, Clinic Assistant_
+October 2003 – August 2005 (second of two instances with this employer)
+ - Insurance billing 
+ - Transcription - ortho/clinical Dictaphone progress notes,
+ - Supervising patient treatment plans
+ - Performing treatment under the direction of Clinician. 
+ - Please see below for proficiencies in Federal/State regulations
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+##### Centennial Peaks Hospital, Louisville, CO<br>_Medical Clerk/Unit Secretary_
+May 2002 – September 2003
+ - Patient chart auditing, transcribing physician’s
+   Orders to the medical administration record,
+ - Admitting/discharging/education of patients,
+ - New employee training and supervision;
+ - Creation of admit/discharge policy and procedure handbook
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+##### New Horizons/Savoy Medical Ctr, Mamou<br>Mental Health Tech/PBX Operator
+January 2000 – January 2001
+ - Auditing patient chart
+ - Phlebotomy
+ - Conducting Therapeutic Activities
+ - Material Management
+ - Operation of a 22 line PBX with 400 extensions, (separate shift)
 
-### Jekyll Themes
+##### Physical Therapy Services of Church Point<br>_Physical Therapy Aide/Office Assistant_
+August 1999 – January 2000
+ - Insurance billing
+ - Medical Transcription
+ - Performing treatment under the direction of
+Clinician
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/enfoTek/enfotek.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+##### Erma J. Manuel, CPA<br>_General Office Duties_
+May 1996 – June 1999
